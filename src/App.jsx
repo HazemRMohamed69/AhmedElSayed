@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import About from "./pages/about";
-import Certificates from "./pages/certificates";
-import Gallery from "./pages/gallery";
+import About from "./pages/About";
+import Certificates from "./pages/Certificates";
+import Gallery from "./pages/Gallery";
 import HomePage from "./pages/HomePage";
 
 function App() {
